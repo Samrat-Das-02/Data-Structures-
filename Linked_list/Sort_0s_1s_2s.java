@@ -1,3 +1,11 @@
+//Sort linked list containing 0’s, 1’s, and 2’s in a single traversal
+//Given a linked list containing 0's, 1's, and 2's, sort the linked list by doing a single traversal of it.
+
+//For example,
+
+//Input:  0 —> 1 —> 2 —> 2 —> 1 —> 0 —> 0 —> 2 —> 0 —> 1 —> 1 —> 0 —> NULL
+ 
+//Output: 0 —> 0 —> 0 —> 0 —> 0 —> 1 —> 1 —> 1 —> 1 —> 2 —> 2 —> 2 —> NULL
 import java.util.Scanner;
 
 public class Sort_0s_1s_2s {
